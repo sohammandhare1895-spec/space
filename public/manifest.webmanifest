@@ -1,0 +1,13 @@
+{
+  "name": "ASTRA — Astronaut Vision System",
+  "short_name": "ASTRA",
+  "description": "Immersive astronaut health intelligence for long-duration space missions.",
+  "start_url": "/",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#000814",
+  "theme_color": "#000814",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
